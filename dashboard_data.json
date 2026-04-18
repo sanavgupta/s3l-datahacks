@@ -1,0 +1,842 @@
+[
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "11_4",
+    "biological_type": "fish_eggs",
+    "latitude": 35.046535,
+    "longitude": -124.14922899999999,
+    "records": 10,
+    "mean_density": 0.8040103728756179
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "11_5",
+    "biological_type": "fish_eggs",
+    "latitude": 35.19349142857143,
+    "longitude": -123.85137714285715,
+    "records": 7,
+    "mean_density": 0.7426515465899469
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "12_1",
+    "biological_type": "fish_eggs",
+    "latitude": 35.490536000000006,
+    "longitude": -124.93159600000001,
+    "records": 5,
+    "mean_density": 0.6692804916195512
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "12_6",
+    "biological_type": "fish_eggs",
+    "latitude": 35.304707,
+    "longitude": -123.60774899999998,
+    "records": 10,
+    "mean_density": 0.636292700709079
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "12_7",
+    "biological_type": "fish_eggs",
+    "latitude": 35.44027,
+    "longitude": -123.30051538461538,
+    "records": 13,
+    "mean_density": 0.5674827308486747
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "12_8",
+    "biological_type": "fish_eggs",
+    "latitude": 35.53951,
+    "longitude": -123.09485,
+    "records": 4,
+    "mean_density": 0.848883009501908
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "13_0",
+    "biological_type": "fish_eggs",
+    "latitude": 35.8100625,
+    "longitude": -125.1678425,
+    "records": 8,
+    "mean_density": 1.6355212221048645
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "13_1",
+    "biological_type": "fish_eggs",
+    "latitude": 35.62558714285715,
+    "longitude": -125.03090571428571,
+    "records": 7,
+    "mean_density": 0.6879742561858061
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "13_10",
+    "biological_type": "fish_eggs",
+    "latitude": 35.828595,
+    "longitude": -122.47997000000001,
+    "records": 8,
+    "mean_density": 1.9283655158971693
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "13_2",
+    "biological_type": "fish_eggs",
+    "latitude": 35.57488,
+    "longitude": -124.6549,
+    "records": 2,
+    "mean_density": 0.6926552918268464
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "13_3",
+    "biological_type": "fish_eggs",
+    "latitude": 35.71463166666667,
+    "longitude": -124.3827975,
+    "records": 12,
+    "mean_density": 0.35025946233867805
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "13_4",
+    "biological_type": "fish_eggs",
+    "latitude": 35.83525,
+    "longitude": -124.08982,
+    "records": 2,
+    "mean_density": 0.5856382517903871
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "13_8",
+    "biological_type": "fish_eggs",
+    "latitude": 35.59871,
+    "longitude": -122.964005,
+    "records": 8,
+    "mean_density": 2.356946578701022
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "13_9",
+    "biological_type": "fish_eggs",
+    "latitude": 35.71645,
+    "longitude": -122.71753142857142,
+    "records": 14,
+    "mean_density": 1.9842823579480158
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "14_0",
+    "biological_type": "fish_eggs",
+    "latitude": 36.04857214285714,
+    "longitude": -125.26431428571428,
+    "records": 14,
+    "mean_density": 0.29426629644861707
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "14_1",
+    "biological_type": "fish_eggs",
+    "latitude": 36.18148,
+    "longitude": -125.04282,
+    "records": 3,
+    "mean_density": 0.1727947359811631
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "14_10",
+    "biological_type": "fish_eggs",
+    "latitude": 35.91069,
+    "longitude": -122.40106,
+    "records": 5,
+    "mean_density": 1.057047985771398
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "14_11",
+    "biological_type": "fish_eggs",
+    "latitude": 35.96508,
+    "longitude": -122.235825,
+    "records": 10,
+    "mean_density": 1.2111443015642036
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "14_12",
+    "biological_type": "fish_eggs",
+    "latitude": 36.100905,
+    "longitude": -121.910584,
+    "records": 10,
+    "mean_density": 0.43422529751971134
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "14_5",
+    "biological_type": "fish_eggs",
+    "latitude": 35.967599285714286,
+    "longitude": -123.80838642857142,
+    "records": 14,
+    "mean_density": 0.6198239918941209
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "14_6",
+    "biological_type": "fish_eggs",
+    "latitude": 36.087113333333335,
+    "longitude": -123.55991777777778,
+    "records": 9,
+    "mean_density": 2.435108583719624
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "14_7",
+    "biological_type": "fish_eggs",
+    "latitude": 36.17257,
+    "longitude": -123.37038,
+    "records": 5,
+    "mean_density": 1.6970017846466725
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "15_1",
+    "biological_type": "fish_eggs",
+    "latitude": 36.25361,
+    "longitude": -124.88776999999999,
+    "records": 8,
+    "mean_density": 0.17448519880933971
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "15_12",
+    "biological_type": "fish_eggs",
+    "latitude": 36.27193285714286,
+    "longitude": -121.93408857142857,
+    "records": 7,
+    "mean_density": 0.19803323678325344
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "15_2",
+    "biological_type": "fish_eggs",
+    "latitude": 36.37638285714286,
+    "longitude": -124.65650428571428,
+    "records": 7,
+    "mean_density": 0.8128362013994136
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "15_3",
+    "biological_type": "fish_eggs",
+    "latitude": 36.483265,
+    "longitude": -124.41200357142857,
+    "records": 14,
+    "mean_density": 0.9422845923076874
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "15_7",
+    "biological_type": "fish_eggs",
+    "latitude": 36.236734999999996,
+    "longitude": -123.23448499999999,
+    "records": 10,
+    "mean_density": 0.7187631343827026
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "15_8",
+    "biological_type": "fish_eggs",
+    "latitude": 36.33974,
+    "longitude": -123.01895,
+    "records": 12,
+    "mean_density": 0.8056737843871481
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "15_9",
+    "biological_type": "fish_eggs",
+    "latitude": 36.491376153846154,
+    "longitude": -122.71692076923077,
+    "records": 13,
+    "mean_density": 0.9745457738312986
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "16_10",
+    "biological_type": "fish_eggs",
+    "latitude": 36.609686999999994,
+    "longitude": -122.44210100000001,
+    "records": 10,
+    "mean_density": 0.28163027139829333
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "16_11",
+    "biological_type": "fish_eggs",
+    "latitude": 36.70680333333333,
+    "longitude": -122.19067,
+    "records": 6,
+    "mean_density": 0.12628648941410403
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "16_4",
+    "biological_type": "fish_eggs",
+    "latitude": 36.60964666666667,
+    "longitude": -124.12445833333334,
+    "records": 6,
+    "mean_density": 0.9841795465494058
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "16_5",
+    "biological_type": "fish_eggs",
+    "latitude": 36.709385000000005,
+    "longitude": -123.90202,
+    "records": 6,
+    "mean_density": 0.19561577087546012
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "16_6",
+    "biological_type": "fish_eggs",
+    "latitude": 36.81736,
+    "longitude": -123.68140999999999,
+    "records": 3,
+    "mean_density": 0.29529248931990343
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "17_1",
+    "biological_type": "fish_eggs",
+    "latitude": 37.074365,
+    "longitude": -125.02802000000001,
+    "records": 6,
+    "mean_density": 0.5443361933845149
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "17_6",
+    "biological_type": "fish_eggs",
+    "latitude": 36.90774,
+    "longitude": -123.4858,
+    "records": 4,
+    "mean_density": 0.3606874897356595
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "17_7",
+    "biological_type": "fish_eggs",
+    "latitude": 37.0221,
+    "longitude": -123.24701,
+    "records": 6,
+    "mean_density": 0.33181316815870204
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "17_8",
+    "biological_type": "fish_eggs",
+    "latitude": 37.123847500000004,
+    "longitude": -123.02050625,
+    "records": 8,
+    "mean_density": 0.13645498889982505
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "18_1",
+    "biological_type": "fish_eggs",
+    "latitude": 37.18895,
+    "longitude": -125.00436,
+    "records": 2,
+    "mean_density": 0.37237155332890237
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "18_4",
+    "biological_type": "fish_eggs",
+    "latitude": 37.44129,
+    "longitude": -124.11827,
+    "records": 2,
+    "mean_density": 0.29110551550245545
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "18_8",
+    "biological_type": "fish_eggs",
+    "latitude": 37.446615,
+    "longitude": -122.980095,
+    "records": 4,
+    "mean_density": 0.14698879557775002
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "18_9",
+    "biological_type": "fish_eggs",
+    "latitude": 37.27914,
+    "longitude": -122.7361325,
+    "records": 4,
+    "mean_density": 0.7838898581434576
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "19_4",
+    "biological_type": "fish_eggs",
+    "latitude": 37.60059,
+    "longitude": -124.06813,
+    "records": 2,
+    "mean_density": 0.12612841937011468
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "19_6",
+    "biological_type": "fish_eggs",
+    "latitude": 37.657265,
+    "longitude": -123.58615666666667,
+    "records": 6,
+    "mean_density": 0.1608015931281975
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "19_7",
+    "biological_type": "fish_eggs",
+    "latitude": 37.7519,
+    "longitude": -123.307065,
+    "records": 2,
+    "mean_density": 0.17912115116622732
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "19_8",
+    "biological_type": "fish_eggs",
+    "latitude": 37.735924,
+    "longitude": -123.11775800000001,
+    "records": 5,
+    "mean_density": 0.10943015570914305
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "4_5",
+    "biological_type": "fish_eggs",
+    "latitude": 32.893912,
+    "longitude": -123.835042,
+    "records": 5,
+    "mean_density": 0.24528086489878004
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "5_4",
+    "biological_type": "fish_eggs",
+    "latitude": 33.166043333333334,
+    "longitude": -124.16018000000001,
+    "records": 3,
+    "mean_density": 0.5995914158796553
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "6_3",
+    "biological_type": "fish_eggs",
+    "latitude": 33.381948,
+    "longitude": -124.29068400000001,
+    "records": 5,
+    "mean_density": 0.11085547571410384
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "6_4",
+    "biological_type": "fish_eggs",
+    "latitude": 33.491352,
+    "longitude": -124.126018,
+    "records": 5,
+    "mean_density": 3.9347634317175606
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "6_5",
+    "biological_type": "fish_eggs",
+    "latitude": 33.58172,
+    "longitude": -123.93001,
+    "records": 3,
+    "mean_density": 0.4584546384080621
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "7_5",
+    "biological_type": "fish_eggs",
+    "latitude": 33.62732,
+    "longitude": -123.82421,
+    "records": 4,
+    "mean_density": 0.6844636926068927
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "7_6",
+    "biological_type": "fish_eggs",
+    "latitude": 33.74382714285714,
+    "longitude": -123.55979,
+    "records": 7,
+    "mean_density": 0.4927090526461728
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "7_7",
+    "biological_type": "fish_eggs",
+    "latitude": 33.87535999999999,
+    "longitude": -123.31211,
+    "records": 6,
+    "mean_density": 0.6075703354962845
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "8_7",
+    "biological_type": "fish_eggs",
+    "latitude": 33.94705,
+    "longitude": -123.16611,
+    "records": 3,
+    "mean_density": 0.624589905231771
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "8_8",
+    "biological_type": "fish_eggs",
+    "latitude": 34.020748000000005,
+    "longitude": -123.00044,
+    "records": 5,
+    "mean_density": 0.5298102542774787
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "8_9",
+    "biological_type": "fish_eggs",
+    "latitude": 34.165220000000005,
+    "longitude": -122.70839000000001,
+    "records": 8,
+    "mean_density": 3.9038710883531333
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "spatial_cell": "9_10",
+    "biological_type": "fish_eggs",
+    "latitude": 34.29750272727273,
+    "longitude": -122.43493545454545,
+    "records": 11,
+    "mean_density": 2.8690966478260957
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "0_5",
+    "biological_type": "larval_fish",
+    "latitude": 31.321667,
+    "longitude": -123.745,
+    "records": 3,
+    "mean_density": 0.0034139014065273795
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "10_13",
+    "biological_type": "larval_fish",
+    "latitude": 34.72,
+    "longitude": -121.535,
+    "records": 7,
+    "mean_density": 0.016153665413533837
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "10_14",
+    "biological_type": "larval_fish",
+    "latitude": 34.888332,
+    "longitude": -121.19666,
+    "records": 6,
+    "mean_density": 0.0028011204481792717
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "11_16",
+    "biological_type": "larval_fish",
+    "latitude": 35.031190714285714,
+    "longitude": -120.89547657142859,
+    "records": 14,
+    "mean_density": 0.02670296772663752
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "12_13",
+    "biological_type": "larval_fish",
+    "latitude": 35.476665,
+    "longitude": -121.611664,
+    "records": 7,
+    "mean_density": 0.02054395486462454
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "13_14",
+    "biological_type": "larval_fish",
+    "latitude": 35.636665,
+    "longitude": -121.265,
+    "records": 3,
+    "mean_density": 0.031189083820662766
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "1_4",
+    "biological_type": "larval_fish",
+    "latitude": 31.918333,
+    "longitude": -124.14833,
+    "records": 6,
+    "mean_density": 0.002807017543859649
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "1_8",
+    "biological_type": "larval_fish",
+    "latitude": 31.656666000000005,
+    "longitude": -123.06834000000002,
+    "records": 11,
+    "mean_density": 0.0030677983433888946
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "2_10",
+    "biological_type": "larval_fish",
+    "latitude": 31.995,
+    "longitude": -122.386665,
+    "records": 6,
+    "mean_density": 0.004053632678515747
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "2_6",
+    "biological_type": "larval_fish",
+    "latitude": 32.246666,
+    "longitude": -123.49166999999998,
+    "records": 13,
+    "mean_density": 0.003281301270332349
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "3_13",
+    "biological_type": "larval_fish",
+    "latitude": 32.32,
+    "longitude": -121.71166,
+    "records": 9,
+    "mean_density": 0.0028967515001034555
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "3_9",
+    "biological_type": "larval_fish",
+    "latitude": 32.578335,
+    "longitude": -122.81167,
+    "records": 6,
+    "mean_density": 0.002951811674415172
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "4_11",
+    "biological_type": "larval_fish",
+    "latitude": 32.91,
+    "longitude": -122.128334,
+    "records": 12,
+    "mean_density": 0.004531533220826302
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "4_15",
+    "biological_type": "larval_fish",
+    "latitude": 32.65333,
+    "longitude": -121.02,
+    "records": 8,
+    "mean_density": 0.003477423496683073
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "4_5",
+    "biological_type": "larval_fish",
+    "latitude": 32.816666,
+    "longitude": -123.90667,
+    "records": 15,
+    "mean_density": 0.004870242816391845
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "5_14",
+    "biological_type": "larval_fish",
+    "latitude": 33.246666,
+    "longitude": -121.445,
+    "records": 6,
+    "mean_density": 0.0031043849437330227
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "5_7",
+    "biological_type": "larval_fish",
+    "latitude": 33.148335,
+    "longitude": -123.22,
+    "records": 13,
+    "mean_density": 0.003932821580994276
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "6_10",
+    "biological_type": "larval_fish",
+    "latitude": 33.483334,
+    "longitude": -122.53167,
+    "records": 3,
+    "mean_density": 0.0030402529490453603
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "7_12",
+    "biological_type": "larval_fish",
+    "latitude": 33.815,
+    "longitude": -121.84166999999998,
+    "records": 6,
+    "mean_density": 0.02340318283286527
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "7_17",
+    "biological_type": "larval_fish",
+    "latitude": 33.746666,
+    "longitude": -120.40833,
+    "records": 9,
+    "mean_density": 0.010860290124893335
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "7_18",
+    "biological_type": "larval_fish",
+    "latitude": 33.87,
+    "longitude": -120.12666,
+    "records": 11,
+    "mean_density": 0.015673981191222573
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "8_15",
+    "biological_type": "larval_fish",
+    "latitude": 34.155,
+    "longitude": -121.151665,
+    "records": 12,
+    "mean_density": 0.0068898994074686505
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "9_11",
+    "biological_type": "larval_fish",
+    "latitude": 34.388332,
+    "longitude": -122.246666,
+    "records": 7,
+    "mean_density": 0.01932186487160309
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "9_16",
+    "biological_type": "larval_fish",
+    "latitude": 34.326668,
+    "longitude": -120.8,
+    "records": 8,
+    "mean_density": 0.02420998980632008
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "9_17",
+    "biological_type": "larval_fish",
+    "latitude": 34.45,
+    "longitude": -120.52333000000002,
+    "records": 5,
+    "mean_density": 0.01911262798634812
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "spatial_cell": "9_19",
+    "biological_type": "larval_fish",
+    "latitude": 34.301112777777774,
+    "longitude": -119.976295,
+    "records": 9,
+    "mean_density": 0.057053653197004124
+  }
+]
