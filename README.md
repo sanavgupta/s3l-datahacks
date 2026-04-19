@@ -18,7 +18,7 @@ Clone the repository and install the dependencies:
 
 ```bash
 git clone https://github.com/sanavgupta/s3l-datahacks.git
-cd marine-eco-forecast
+cd s3l-datahacks
 pip3 install -r requirements.txt
 ```
 
@@ -74,6 +74,8 @@ marine-eco-forecast/
 ```
 
 ---
+
+## This opens the project without future predictions as a feature, come in person to view projections. 
 
 ## 🌟 Inspiration & Impact
 
