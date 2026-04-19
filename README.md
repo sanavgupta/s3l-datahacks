@@ -17,7 +17,7 @@ Ensure you have **Python 3.10+** installed. This project utilizes modern librari
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/sanagupta/marine-eco-forecast.git
+git clone https://github.com/sanavgupta/s3l-datahacks.git
 cd marine-eco-forecast
 pip install -r requirements.txt
 ```
